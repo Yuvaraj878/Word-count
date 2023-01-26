@@ -20,6 +20,8 @@ Then write a revelant program.
 ## PROGRAM:
 ### To write a python program for getting the word count from a text.
 ```python
+#Developed By : YUVARAJ.S
+#Register Number : 22008589
 num_words =0
 with open('text2.txt','r') as file1:
     for i in file1:
